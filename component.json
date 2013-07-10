@@ -1,0 +1,12 @@
+{
+	"name": "speech",
+	"repo": "yyx990803/speech",
+	"description": "Chrome speech recognition wrapper",
+	"keywords": ["speech", "recognition"],
+	"dependencies": {
+		"component/emitter": "*"
+	},
+	"version": "1.0.0",
+	"license": "MIT",
+	"scripts": [ "index.js" ]
+}
