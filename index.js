@@ -1,4 +1,10 @@
-var Emitter = require('emitter')
+var Emitter, cmitter = 'emitter'
+
+try {
+    Emitter = require(cmitter)
+} catch (e) {
+    Emitter = require('component-emitter')
+}
 
 function Speech (options) {
 

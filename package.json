@@ -1,0 +1,22 @@
+{
+  "name": "speechjs",
+  "version": "0.0.1",
+  "description": "Chrome speech recognition API wrapper",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yyx990803/speech.git"
+  },
+  "keywords": [
+    "speech"
+  ],
+  "author": "Evan You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yyx990803/speech/issues"
+  },
+  "homepage": "https://github.com/yyx990803/speech",
+  "dependencies": {
+    "component-emitter": "^1.1.2"
+  }
+}
